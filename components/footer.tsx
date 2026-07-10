@@ -55,12 +55,12 @@ export function Footer() {
                 </a>
               </li>
               <li>
-                <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent hover:pl-1 transition-all">
+                <a href="https://www.linkedin.com/in/shashikant-kumar-1485a3129" target="_blank" rel="noopener noreferrer" className="hover:text-accent hover:pl-1 transition-all">
                   LinkedIn
                 </a>
               </li>
               <li>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="hover:text-accent hover:pl-1 transition-all">
+                <a href="https://github.com/skant452" target="_blank" rel="noopener noreferrer" className="hover:text-accent hover:pl-1 transition-all">
                   GitHub
                 </a>
               </li>
@@ -80,7 +80,7 @@ export function Footer() {
             href="#"
             className="flex items-center gap-2 px-3 py-2 text-sm text-muted-foreground hover:text-primary-foreground transition-all border border-border rounded-lg hover:border-transparent hover:bg-gradient-to-r hover:from-primary hover:to-accent hover:-translate-y-0.5"
           >
-            Back to top
+            <span className='hidden sm:block'>Back to top</span>
             <ArrowUp size={16} />
           </a>
         </div>
