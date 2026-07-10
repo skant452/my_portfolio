@@ -45,7 +45,7 @@ export function Skills() {
                     </span>
                     {category.label}
                   </h3>
-                  <ul className="space-y-2">
+                  <ul className={`gap-x-4 gap-y-2 ${category.skills.length > 3 ? 'grid grid-cols-2' : 'space-y-2'}`}>
                     {category.skills.map((skill) => (
                       <li key={skill} className="text-sm text-muted-foreground flex items-start gap-2">
                         <span className={`${colors.text}`}>▸</span>

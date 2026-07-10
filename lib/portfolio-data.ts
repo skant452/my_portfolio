@@ -25,7 +25,7 @@ export const portfolioData = {
       positions: [
         {
           title: "MERN Stack Developer",
-          period: "Mid 2024 – Present",
+          period: "2024 – Present",
           highlights: [
             "Spearhead full-stack feature development across React/Next.js frontends and Node.js/Express/MongoDB backends",
             "Design and ship React Native mobile applications alongside web platforms",
@@ -35,7 +35,7 @@ export const portfolioData = {
         },
         {
           title: "Frontend Developer – API Integration",
-          period: "2023 – Mid 2024",
+          period: "2023 – 2024",
           highlights: [
             "Engineered REST API integrations across multiple frontend applications",
             "Implemented blockchain smart contract integration using Wagmi and Ethers.js",
@@ -44,7 +44,7 @@ export const portfolioData = {
         },
         {
           title: "UI Developer",
-          period: "July 2022 – December 2023",
+          period: "July 2022 – December 2022",
           highlights: [
             "Built responsive, reusable UI components in React.js",
             "Converted design mockups into pixel-accurate, cross-browser compatible interfaces",

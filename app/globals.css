@@ -170,7 +170,7 @@
 @layer utilities {
   .gradient-text {
     @apply bg-clip-text text-transparent bg-[linear-gradient(90deg,#7c5cff,#b45cff,#f6339a,#ff7a45)];
-    background-size: 300% auto;
+    background-size: 300% auto; 
     animation: gradient-flow 6s ease infinite;
   }
 
