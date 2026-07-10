@@ -13,7 +13,7 @@ export const portfolioData = {
     frontend: ["React.js", "Next.js", "React Native"],
     backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "SQL"],
     blockchain: ["Wagmi", "Ethers.js", "Smart Contract Integration"],
-    tools: ["OpenAI API", "Git", "Admin Panel Development"]
+    tools: ["OpenAI API", "Git", "GitHub", "VS Code", "Postman", "Figma"]
   },
 
   experience: [
