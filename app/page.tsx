@@ -9,7 +9,7 @@ import { Footer } from '@/components/footer';
 
 export const metadata = {
   title: "Shashikant Kumar - MERN Stack Developer",
-  description: "Portfolio of Shashikant Kumar, a talented MERN Stack Developer with 4+ years of experience building scalable web and mobile applications.",
+  description: "Portfolio of Shashikant Kumar, a MERN Stack Developer with 4+ years of experience building scalable web and mobile applications.",
 };
 
 export default function Home() {
