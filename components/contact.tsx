@@ -46,7 +46,7 @@ export function Contact() {
             <h3 className="text-xl font-semibold text-center mb-8">Follow My Work</h3>
             <div className="flex justify-center gap-6 flex-wrap">
               <a
-                href="https://linkedin.com"
+                href="https://www.linkedin.com/in/shashikant-kumar-1485a3129"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 border border-border rounded-lg hover:border-primary hover:text-primary hover:-translate-y-1 hover:shadow-lg hover:shadow-primary/20 transition-all group"
@@ -55,7 +55,7 @@ export function Contact() {
                 <span>LinkedIn</span>
               </a>
               <a
-                href="https://github.com"
+                href="https://github.com/skant452"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="flex items-center gap-2 px-4 py-2 border border-border rounded-lg hover:border-accent hover:text-accent hover:-translate-y-1 hover:shadow-lg hover:shadow-accent/20 transition-all group"
