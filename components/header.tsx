@@ -79,8 +79,9 @@ export function Header() {
           <div className="md:hidden flex items-center gap-1">
             <ThemeToggle />
             <button
+              type="button"
               onClick={() => setIsOpen(!isOpen)}
-              className="p-2 rounded-lg hover:bg-secondary hover:text-primary transition-colors"
+              className="p-2 rounded-lg hover:bg-secondary hover:text-primary transition-colors touch-manipulation"
               aria-label="Toggle menu"
             >
               {isOpen ? <X size={24} /> : <Menu size={24} />}

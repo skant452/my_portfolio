@@ -9,11 +9,12 @@ export function ThemeToggle() {
 
   return (
     <button
+      type="button"
       onClick={toggleTheme}
       role="switch"
       aria-checked={isDark}
       aria-label="Toggle dark mode"
-      className={`relative inline-flex h-9 w-14 lg:w-20 shrink-0 items-center rounded-full border transition-colors duration-300 ${
+      className={`relative inline-flex h-9 w-14 lg:w-20 shrink-0 items-center rounded-full border transition-colors duration-300 touch-manipulation ${
         isDark ? 'bg-secondary border-primary/40' : 'bg-secondary border-border'
       }`}
     >
