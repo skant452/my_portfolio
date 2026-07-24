@@ -4,8 +4,8 @@ import './globals.css'
 import { ThemeProvider } from '@/components/theme-provider'
 
 export const metadata: Metadata = {
-  title: 'Shashikant Kumar - MERN Stack Developer',
-  description: 'Portfolio of Shashikant Kumar, a MERN Stack Developer with 4+ years of experience building scalable web and mobile applications.',
+  title: 'Shashikant Kumar - Senior Frontend Developer',
+  description: 'Portfolio of Shashikant Kumar, a Senior Frontend Developer with 4+ years of experience building scalable web and mobile applications.',
   generator: 'next.js',
   icons: {
     icon: '/shashi.jpeg',

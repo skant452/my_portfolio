@@ -58,7 +58,7 @@ export function Hero() {
                 <span className="gradient-text">{portfolioData.name}</span>
               </h1>
               <p className="text-xl font-semibold gradient-text animate-slide-fade" style={{ animationDelay: '0.2s' }}>
-                MERN Stack Developer
+                Senior Frontend Developer
               </p>
             </div>
 
@@ -85,7 +85,7 @@ export function Hero() {
                 Get In Touch
               </a>
               <a
-                href="/Shashikant_Kumar_Resume.docx"
+                href="/Shashikant_Resume_latest.docx"
                 download
                 className="px-6 py-3 border border-accent text-accent rounded-lg font-semibold hover:bg-accent hover:text-accent-foreground hover:scale-105 hover:shadow-lg hover:shadow-accent/30 transition-all flex items-center gap-2 group"
               >

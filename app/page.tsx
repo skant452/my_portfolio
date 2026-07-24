@@ -8,8 +8,8 @@ import { Contact } from '@/components/contact';
 import { Footer } from '@/components/footer';
 
 export const metadata = {
-  title: "Shashikant Kumar - MERN Stack Developer",
-  description: "Portfolio of Shashikant Kumar, a MERN Stack Developer with 4+ years of experience building scalable web and mobile applications.",
+  title: "Shashikant Kumar - Senior Frontend Developer",
+  description: "Portfolio of Shashikant Kumar, a Senior Frontend Developer with 4+ years of experience building scalable web and mobile applications.",
 };
 
 export default function Home() {

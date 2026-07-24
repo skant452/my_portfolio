@@ -14,7 +14,7 @@ export function Footer() {
               Shashikant Kumar
             </p>
             <p className="text-sm text-muted-foreground">
-              Full-stack developer crafting beautiful and functional digital experiences.
+              Senior Frontend developer crafting beautiful and functional digital experiences.
             </p>
           </div>
 
@@ -50,7 +50,7 @@ export function Footer() {
             <h3 className="font-semibold text-foreground mb-4">Resources</h3>
             <ul className="space-y-2 text-sm text-muted-foreground">
               <li>
-                <a href="/Shashikant_Kumar_Resume.docx" download className="hover:text-accent hover:pl-1 transition-all">
+                <a href="/Shashikant_Resume_latest.docx" download className="hover:text-accent hover:pl-1 transition-all">
                   Download Resume
                 </a>
               </li>

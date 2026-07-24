@@ -1,19 +1,19 @@
 export const portfolioData = {
   name: "Shashikant Kumar",
-  title: "MERN Stack Developer",
+  title: "Senior Frontend Developer",
   tagline: "Building scalable web applications",
   phone: "+91 6206423499",
   email: "skant452@gmail.com",
   linkedin: "Shashikant Kumar",
   github: "GitHub",
-  summary: "MERN Stack Developer with 4+ years of experience designing, developing, and deploying scalable web applications. Progressed from Trainee to Developer by consistently delivering high-quality solutions. Expertise in React.js, Next.js, React Native, Node.js, and modern tech stack.",
+  summary: "Senior Frontend Developer with 4+ years of experience designing, developing, and deploying scalable web applications. Progressed from Trainee to Developer by consistently delivering high-quality solutions. Expertise in React.js, Next.js, React Native, Node.js, and modern tech stack.",
   
   skills: {
     languages: ["JavaScript (Node.js, React.js)", "HTML5", "CSS3"],
     frontend: ["React.js", "Next.js", "React Native"],
     backend: ["Node.js", "Express.js", "REST APIs", "MongoDB", "SQL"],
     blockchain: ["Wagmi", "Ethers.js", "Smart Contract Integration"],
-    tools: ["OpenAI API", "Git", "GitHub", "VS Code", "Postman", "Figma"]
+    tools: ["OpenAI","RAG, MCP","Prompt Engg.", "Git", "GitHub", "VS Code", "Postman", "Figma"]
   },
 
   experience: [
@@ -24,17 +24,19 @@ export const portfolioData = {
       endDate: "Present",
       positions: [
         {
-          title: "MERN Stack Developer",
+          title: "Senior Frontend Developer",
           period: "2024 – Present",
           highlights: [
             "Spearhead full-stack feature development across React/Next.js frontends and Node.js/Express/MongoDB backends",
             "Design and ship React Native mobile applications alongside web platforms",
-            "Pioneer Generative AI (OpenAI) integration into healthcare consultation product",
-            "Serve as direct point of contact for US and India-based clients"
+            "Pioneer Generative AI (OpenAI – Prompt Engineering, RAG, MCP) integration into healthcare consultation product",
+            "Own frontend architecture and technical decisions across React/Next.js codebases, establishing reusable component patterns and coding standards",
+            "Optimize application performance and Core Web Vitals across production React/Next.js applications, improving load times and overall user experience",
+            "Mentor junior and mid-level developers through code reviews and pair programming, raising overall frontend code quality",
           ]
         },
         {
-          title: "Frontend Developer – API Integration",
+          title: "Frontend Developer",
           period: "2023 – 2024",
           highlights: [
             "Engineered REST API integrations across multiple frontend applications",

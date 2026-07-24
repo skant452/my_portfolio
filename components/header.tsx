@@ -59,7 +59,7 @@ export function Header() {
               </a>
             ))}
             {/* <a
-              href="/Shashikant_Kumar_Resume.docx"
+              href="/Shashikant_Resume_latest.docx"
               download
               className="gradient-underline flex items-center gap-1.5 text-sm font-medium text-muted-foreground hover:text-foreground transition-colors"
             >
@@ -103,7 +103,7 @@ export function Header() {
               </a>
             ))}
             <a
-              href="/Shashikant_Kumar_Resume.docx"
+              href="/Shashikant_Resume_latest.docx"
               download
               className="flex items-center gap-2 px-4 py-2 text-sm font-medium text-muted-foreground hover:text-foreground hover:bg-secondary rounded-lg transition-all"
               onClick={() => setIsOpen(false)}
